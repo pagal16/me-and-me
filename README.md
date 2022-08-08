@@ -1,2 +1,5 @@
-# me-and-me
-created by pagalavan
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
